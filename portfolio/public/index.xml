@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My First Go Website</title>
+    <link>https://example.org/</link>
+    <description>Recent content on My First Go Website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Feb 2025 22:18:54 -0500</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Thu, 06 Feb 2025 22:18:54 -0500</pubDate>
+      <guid>https://example.org/about/</guid>
+      <description>&lt;p&gt;This is my about page&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
