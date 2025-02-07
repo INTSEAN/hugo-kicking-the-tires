@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My First Go Website</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on My First Go Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Feb 2025 22:18:54 -0500</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Feb 2025 22:46:14 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Résumé</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Thu, 06 Feb 2025 22:46:14 -0500</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description></description>
+    </item>
     <item>
       <title>About</title>
-      <link>https://example.org/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 06 Feb 2025 22:18:54 -0500</pubDate>
-      <guid>https://example.org/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;This is my about page&lt;/p&gt;</description>
     </item>
   </channel>
